@@ -12,7 +12,7 @@
 
 - (void)setValue:(id)value forUndefinedKey:(NSString *)key
 {
-    NSString *abc=@"123";
+    NSString *abc=@"123哈哈";
 }
 
 @end
